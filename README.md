@@ -1,4 +1,17 @@
-<h2 align="left">Hi 👋! My name is Ritik Singh and I'm a Student at Jss academy of Technical Education from ....</h2>
+<h1 align="left">Hi 👋! My name is Ritik Singh </h1>
+<ul>
+  <li >🔭 I’m currently working on College Community Server (A project focused on building robust backend solutions). </li>
+
+<li>🌱 I’m currently learning Backend development with NextJS, Typescript & React Native </li>
+ 
+<li>👯 I’m looking to collaborate on Hackathons and Coding Competitions.</li>
+
+<li>🤝 I’m looking for help with Learning advanced Web Development techniques, fast Frontend and secure Backend</li>
+
+<li>💬 Ask me about Web development using technologies like HTML, CSS, JavaScript, React.js, Next.js, Node.js, Express.js, React Native, MongoDB and MySQL</li>
+
+📫 How to reach me dreamritikrs551@gmail.com
+</ul>
 
 ###
 
