@@ -41,8 +41,8 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dracula&count_private=true&hide_border=false" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=your-username&layout=compact&langs_count=6&theme=dracula&hide_border=false" height="180" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ritik543&show_icons=true&theme=dracula&count_private=true&hide_border=false" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ritik543&layout=compact&langs_count=6&theme=dracula&hide_border=false" height="180" alt="Top Languages" />
 </div>
 
 ---
